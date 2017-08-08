@@ -18,3 +18,4 @@ int main()
 
 #Add tag for tmp in tmpbranch
 
+#Add project which build hello-world cross
